@@ -1,0 +1,5 @@
+{
+    "python.defaultInterpreterPath": "venv/bin/python",
+    "docwriter.style": "Auto-detect",
+    "docwriter.progress.trackFunctions": false,
+}
